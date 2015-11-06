@@ -1,0 +1,77 @@
+.rightside {
+	float: right;
+}
+
+.login {
+	width: 50px;
+}
+
+h1 {
+	font-family: 'Pacifico', cursive;
+}
+
+.entry {
+	border-radius: 4px;
+	padding: 5px 10px;
+	border: 1px solid gray;
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+
+.header {
+	margin-bottom: 20px;
+	border-bottom: 1px solid gray;
+	padding-bottom: 20px;
+}
+
+.mLogo {
+	color: #38BA8F;
+}
+
+.favorite {
+	color: #E0BE24;
+}
+
+.new {
+	color: #C41428;
+}
+
+.message {
+	padding-top: 20px;
+}
+
+.table {
+	margin-top: 40px;
+}
+
+.info {
+	padding-left: 40px;
+}
+
+.login {
+	background-color: #C41428;
+	color: white;
+	text-shadow: 1px 1px 2px #333;
+	font-weight: bold !important; 
+}
+
+h4 {
+	color: #38BA8F;
+	font-weight: bold;
+	padding-bottom: 24px;
+}
+
+
+.text {
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.icon-eye, .icon-comment, .icon-user {
+	color: #38BA8F;
+}
+
+a.reply:link, a.reply:visited {
+	color: #15966C;
+}
+
